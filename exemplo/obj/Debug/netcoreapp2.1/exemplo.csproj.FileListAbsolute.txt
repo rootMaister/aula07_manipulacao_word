@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\bin\Debug\netcoreapp2.1\exemplo.deps.json
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\bin\Debug\netcoreapp2.1\exemplo.runtimeconfig.json
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\bin\Debug\netcoreapp2.1\exemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\bin\Debug\netcoreapp2.1\exemplo.dll
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\bin\Debug\netcoreapp2.1\exemplo.pdb
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.dll
+C:\Users\fic\Desktop\aula07_manipulacao_word\exemplo\obj\Debug\netcoreapp2.1\exemplo.pdb
